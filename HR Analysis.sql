@@ -1,5 +1,5 @@
  
--- https://www.youtube.com/watch?v=oQSX_y2wfhc DashBoard Link in final Project
+
  selecT *from Absenteeism_at_work
 
  -- Find the Healthiest That not Dring Or Smoke
